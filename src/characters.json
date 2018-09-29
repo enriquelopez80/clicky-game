@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Bugs Bunny",
+      "image": "http://icons.iconarchive.com/icons/sykonist/looney-tunes/256/Bugs-Bunny-King-icon.png"
+    },
+    {
+      "id": 2,
+      "name": "Daffy Duck",
+      "image": "http://icons.iconarchive.com/icons/sykonist/looney-tunes/256/Daffy-Duck-Angry-icon.png"
+    },
+    {
+      "id": 3,
+      "name": "Taz",
+      "image": "https://i.imgur.com/7s92i.png"
+    },
+    {
+      "id": 4,
+      "name": "Wyle E. Coyote",
+      "image": "http://www.iconarchive.com/download/i31574/sykonist/looney-tunes/Wile-E-Coyote.ico"
+    },
+    {
+      "id": 5,
+      "name": "Sylvester",
+      "image": "http://www.iconarchive.com/download/i31585/sykonist/looney-tunes/Silvester.ico"
+    },
+    {
+      "id": 6,
+      "name": "Marvin the Martian",
+      "image": "https://i.pinimg.com/originals/97/4f/e0/974fe01d07183000b9061ed5ecb8df68.png"
+    },
+    {
+      "id": 7,
+      "name": "Speedy Gonzalez",
+      "image": "http://icons.iconarchive.com/icons/sykonist/looney-tunes/256/Speedy-Gonzales-icon.png"
+    },
+    {
+      "id": 8,
+      "name": "Foghorn Leghorn",
+      "image": "https://i.pinimg.com/originals/1a/b9/0f/1ab90fd9318000adfa57a81fc2b1c656.png"
+    },
+    {
+      "id": 9,
+      "name": "Roadrunner",
+      "image": "https://files.gamebanana.com/img/ico/sprays/roadrunner.png"
+    },
+    {
+      "id": 10,
+      "name": "Yosemite Sam",
+      "image": "https://i.pinimg.com/originals/bd/13/a3/bd13a34fa0e0d343f5cdb4b6b648ea69.png"
+    },
+    {
+      "id": 11,
+      "name": "Pepe Le Pew",
+      "image": "http://icons.iconarchive.com/icons/sykonist/looney-tunes/256/Pepe-Le-Pew-icon.png"
+    },
+    {
+      "id": 12,
+      "name": "Porky Pig",
+      "image": "https://i.pinimg.com/originals/59/c4/98/59c4989e8d2cccc7722c35fe80e1d862.png"
+    }
+  ]
